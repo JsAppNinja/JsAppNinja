@@ -7,7 +7,7 @@
 </h1>
 
 <br>
-<div align="center"> 🚀 Senior Software Developer 🚀</div>  
+<h2 align="center"> 🚀 Senior Software Developer 🚀</h2>  
 
 My passion is technology, business and people. I love working with people and highly believe that the quality of a project's performance is deeply rooted in the passion, diligence, discipline and values of each individual involved in the project. The biggest value you can bring to a project is choosing individuals with an inherent passion for daily involvement in the project's progress. Please choose me if you are seeking a guy who is dedicated to the discipline of the project's inner workings. Then, I will become your project's driving force.
 
@@ -30,7 +30,8 @@ Contact me <b>email</b>: dgallred223@gmail.com
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels and on the weekend I'd like to explore hiking.
 
 <hr>
-## 🔥 Skills
+
+<h2 align="center">🔥 Skills</h2>
 
 <b>LANGUAGES & OTHER:</b>
 
@@ -74,7 +75,8 @@ Contact me <b>email</b>: dgallred223@gmail.com
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+
+<h2 align="center">🔥 Languages & Frameworks & Tools</h2>
 <br>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
