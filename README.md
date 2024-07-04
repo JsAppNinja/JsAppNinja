@@ -52,6 +52,7 @@ Contact me <b>email</b>: dgallred223@gmail.com
 ![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![D3js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-E0234E?style=for-the-badge&logo=wordpress&logoColor=white)
 
 <b>TECHNOLOGIES & TOOLS:</b>
 
